@@ -1,14 +1,9 @@
 # 👋 Hi, I'm Neelamohan
 
-### 🌟 Full-Stack Developer | Python & React Enthusiast
-
----
-
-## 💻 Tech Stack
-**Frontend:** React.js, HTML, CSS  
-**Backend:** Python, Django, Flask  
-**Database:** MySQL, MongoDB  
-**Other:** Git, REST API, Docker  
+### 🌟 Executive Summary
+Passionate Full-Stack Developer & Problem Solver.  
+I build real-world applications that make life easier.  
+Love exploring new technologies and creating projects that leave an impact.  
 
 ---
 
@@ -17,16 +12,16 @@
 
 ---
 
-## 🚀 Projects
-- [Dairy Management](https://github.com/NEED_YOUR_USERNAME/DairyManagement) – Farmers & shops platform  
-- [Todo App](https://github.com/NEED_YOUR_USERNAME/todos-project) – MERN stack todo app  
+## 🚀 Featured Projects
+- [Smart HealthCare Dairy Products](https://github.com/NEED_YOUR_USERNAME/SmartHealthCareDairy) – Freelance project for managing and tracking dairy products with health focus.  
+- [Todo App](https://github.com/NEED_YOUR_USERNAME/todos-project) – MERN Stack Todo App  
 
 ---
 
-## 📫 Connect
+## 📫 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://linkedin.com/in/NEED_YOUR_LINKEDIN)  
 [![Email](https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail)](mailto:YOUR_EMAIL)
 
 ---
 
-> "Code. Coffee. Repeat ☕💻"
+> "Building meaningful projects, one line of code at a time 🚀"
