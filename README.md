@@ -1,31 +1,31 @@
 <div align="center">
 
-# `$ whoami`
+## Neelamohan R
+### Full-Stack Developer · Developer & Data Enthusiast
 
-## 👋 Neelamohan R
-### Full-Stack Developer · Problem Solver · Tech Enthusiast
+[![Portfolio](https://img.shields.io/badge/Portfolio-neelamohan.vercel.app-3fb950?style=for-the-badge&logo=vercel&logoColor=white)](https://neelamohan.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-neelamohanr-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/neelamohanr)
+[![Email](https://img.shields.io/badge/Gmail-neelamohan6cs-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:neelamohan6cs@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Neelamohan6cs-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Neelamohan6cs)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/neelamohan-r-cs)
-[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:neelamohan6cs@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Neelamohan6cs)
+![Open to Freelance](https://img.shields.io/badge/Status-Open%20to%20Freelance-2ea043?style=flat-square)
 
 </div>
 
 ---
 
-## 🧑‍💻 About Me
+## About Me
 
-> Passionate full-stack developer on a mission to build **impactful, accessible technology** that solves real-world problems.
-> From freelance projects to open-source work, I love turning ideas into working products.
+Passionate full-stack developer building **impactful, accessible technology** that solves real-world problems. I specialise in turning ideas into polished products — from healthcare management tools to data-driven web apps.
 
-- 🔭 Currently building solutions that make technology accessible
+- 🌐 Portfolio: [neelamohan.vercel.app](https://neelamohan.vercel.app)
 - 💡 Passionate about clean code, great UX, and real-world impact
 - 🤝 Open to **freelance projects** and **collaboration**
 - 📫 Reach me at **neelamohan6cs@gmail.com**
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
@@ -39,16 +39,16 @@
 
 ---
 
-## 🚀 Featured Project
+## Projects
 
 ### 🥛 [Smart HealthCare Dairy Products](https://github.com/Neelamohan6cs/SmartHealthCareDairy)
 
-> A freelance project for managing and tracking dairy products with a health focus.
+A freelance project for managing and tracking dairy products with a health focus — streamlining inventory, health metrics, and product quality for dairy businesses.
 
 ```
-✔ Streamlines inventory & health metrics
-✔ Tracks product quality for dairy businesses
-✔ Built with a full-stack approach for real-world use
+✔ Inventory & health metrics tracking
+✔ Product quality management
+✔ Built for real-world dairy business use
 ```
 
 ![Freelance](https://img.shields.io/badge/Type-Freelance-blue?style=flat-square)
@@ -57,7 +57,7 @@
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
@@ -69,15 +69,16 @@
 
 ---
 
-## 📫 Let's Connect
+## Connect With Me
 
 <div align="center">
 
-| Platform | Link |
-|----------|------|
-| 💼 LinkedIn | [neelamohan-r-cs](https://www.linkedin.com/in/neelamohan-r-cs) |
-| 📧 Email | [neelamohan6cs@gmail.com](mailto:neelamohan6cs@gmail.com) |
-| 🐙 GitHub | [Neelamohan6cs](https://github.com/Neelamohan6cs) |
+| | Platform | Link |
+|---|---|---|
+| 🌐 | Portfolio | [neelamohan.vercel.app](https://neelamohan.vercel.app) |
+| 💼 | LinkedIn | [neelamohanr](https://www.linkedin.com/in/neelamohanr) |
+| 📧 | Email | [neelamohan6cs@gmail.com](mailto:neelamohan6cs@gmail.com) |
+| 🐙 | GitHub | [Neelamohan6cs](https://github.com/Neelamohan6cs) |
 
 ⚡ *Open to freelance projects and exciting collaborations — let's build something great!*
 
