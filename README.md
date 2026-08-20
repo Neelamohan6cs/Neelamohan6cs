@@ -1,10 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3fb950,100:0A66C2&height=220&section=header&text=Neelamohan%20R&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Developer%20%26%20Data%20Enthusiast&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3fb950,100:0A66C2&height=200&section=header&text=Neelamohan%20R&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Developer%20%26%20Data%20Enthusiast&descAlignY=58&descSize=16" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=3FB950&center=true&vCenter=true&width=600&lines=Building+clean%2C+scalable+web+apps;React+%7C+Node.js+%7C+Python+%7C+SQL;Open+to+freelance+%26+collaboration!" alt="Typing SVG" />
-
-<br/>
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=3FB950&center=true&vCenter=true&width=600&lines=Building+clean%2C+scalable+web+apps;React+%7C+Node.js+%7C+Python+%7C+SQL;Open+to+freelance+%26+collaboration!" alt="Typing SVG" />
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-neelamohan.vercel.app-3fb950?style=for-the-badge&logo=vercel&logoColor=white)](https://neelamohan.vercel.app)
 [![GitHub](https://img.shields.io/badge/GitHub-Neelamohan6cs-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Neelamohan6cs)
@@ -12,23 +10,14 @@
 [![Gmail](https://img.shields.io/badge/Gmail-neelamohan6cs-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:neelamohan6cs@gmail.com)
 [![LeetCode](https://img.shields.io/badge/LeetCode-Neelamohan6cs-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/Neelamohan6cs)
 
-<img src="https://komarev.com/ghpvc/?username=Neelamohan6cs&style=for-the-badge&color=3fb950&label=PROFILE+VIEWS" alt="profile views"/>
-
 </div>
 
-## 🧑‍💻 About Me
-
+### 🧑‍💻 About Me
 - 💡 Passionate about clean code, great UX, and real-world impact
-- 🚀 Currently building projects that blend **web development** and **data**
 - 🤝 Open to **freelance projects** and **collaboration**
-- 📫 Reach me at **neelamohan6cs@gmail.com**
+- 📫 **neelamohan6cs@gmail.com**
 
-<div align="center">
-<img src="https://images.unsplash.com/photo-1498050108023-c5249f4df085?auto=format&fit=crop&w=1000&q=80" width="100%" alt="Full stack development"/>
-</div>
-
-## 🛠️ Tech Stack
-
+### 🛠️ Tech Stack
 <div align="center">
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -43,11 +32,23 @@
 
 </div>
 
-## 📊 GitHub Stats
-
+### 📊 GitHub Stats
 <div align="center">
 
 <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Neelamohan6cs&show_icons=true&count_private=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=3fb950&icon_color=3fb950"/>
 <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Neelamohan6cs&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=3fb950"/>
 
-<img src="https://streak-stats.demolab.com/?user=Neelamohan6cs&theme=github-dark-blue&hide_border=true&background=0D1117&ring=3FB950&fire=3FB950&currStreakLabel
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Neelamohan6cs&theme=github-dark-blue&hide_border=true&background=0D1117&ring=3FB950&fire=3FB950&currStreakLabel=3FB950" alt="streak stats"/>
+
+</div>
+
+### 🚀 Projects
+📌 *Check out my pinned repositories for featured work, including Smart HealthCare and Dairy Products.*
+
+<div align="center">
+
+⚡ Open to freelance projects and exciting collaborations — let's build something great!
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:3fb950&height=100&section=footer" width="100%"/>
+
+</div>
