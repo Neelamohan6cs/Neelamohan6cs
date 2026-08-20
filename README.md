@@ -23,6 +23,10 @@
 - 🤝 Open to **freelance projects** and **collaboration**
 - 📫 Reach me at **neelamohan6cs@gmail.com**
 
+<div align="center">
+<img src="https://images.unsplash.com/photo-1498050108023-c5249f4df085?auto=format&fit=crop&w=1000&q=80" width="100%" alt="Full stack development"/>
+</div>
+
 ## 🛠️ Tech Stack
 
 <div align="center">
@@ -46,20 +50,4 @@
 <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Neelamohan6cs&show_icons=true&count_private=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=3fb950&icon_color=3fb950"/>
 <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Neelamohan6cs&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=3fb950"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Neelamohan6cs&theme=github-dark-blue&hide_border=true&background=0D1117&ring=3FB950&fire=3FB950&currStreakLabel=3FB950" alt="streak stats"/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Neelamohan6cs&theme=github-compact&hide_border=true&bg_color=0D1117&color=3FB950&line=3FB950&point=FFFFFF" width="100%"/>
-
-</div>
-
-## 🚀 Featured Projects
-
-📌 *Check out my pinned repositories below for featured projects, including Smart HealthCare and Dairy Products.*
-
-<div align="center">
-
-⚡ Open to freelance projects and exciting collaborations — let's build something great!
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:3fb950&height=100&section=footer" width="100%"/>
+<img src="https://streak-stats.demolab.com/?user=Neelamohan6cs&theme=github-dark-blue&hide_border=true&background=0D1117&ring=3FB950&fire=3FB950&currStreakLabel
