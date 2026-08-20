@@ -2,9 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3fb950,100:0A66C2&height=220&section=header&text=Neelamohan%20R&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Developer%20%26%20Data%20Enthusiast&descAlignY=58&descSize=18" width="100%"/>
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=3FB950&center=true&vCenter=true&width=600&lines=Building+clean%2C+scalable+web+apps;React+%7C+Node.js+%7C+Python+%7C+SQL;Open+to+freelance+%26+collaboration!" alt="Typing SVG" />
-</a>
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=3FB950&center=true&vCenter=true&width=600&lines=Building+clean%2C+scalable+web+apps;React+%7C+Node.js+%7C+Python+%7C+SQL;Open+to+freelance+%26+collaboration!" alt="Typing SVG" />
 
 <br/>
 
@@ -18,17 +16,12 @@
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%" height="4px">
-
 ## 🧑‍💻 About Me
 
 - 💡 Passionate about clean code, great UX, and real-world impact
 - 🚀 Currently building projects that blend **web development** and **data**
 - 🤝 Open to **freelance projects** and **collaboration**
-- 🌱 Always learning — currently leveling up problem-solving on LeetCode
 - 📫 Reach me at **neelamohan6cs@gmail.com**
-
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%" height="4px">
 
 ## 🛠️ Tech Stack
 
@@ -46,8 +39,6 @@
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%" height="4px">
-
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -61,34 +52,13 @@
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%" height="4px">
-
 ## 🚀 Featured Projects
 
-<div align="center">
-
-[![Smart HealthCare](https://github-readme-stats.vercel.app/api/pin/?username=Neelamohan6cs&repo=Smart-HealthCare&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=3fb950)](https://github.com/Neelamohan6cs)
-[![Dairy Products](https://github-readme-stats.vercel.app/api/pin/?username=Neelamohan6cs&repo=Dairy-Products&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=3fb950)](https://github.com/Neelamohan6cs)
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%" height="4px">
-
-## 🐍 Contribution Snake
+📌 *Check out my pinned repositories below for featured projects, including Smart HealthCare and Dairy Products.*
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Neelamohan6cs/Neelamohan6cs/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%" height="4px">
-
-<div align="center">
-
-### ⚡ Let's build something great together!
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="150">
+⚡ Open to freelance projects and exciting collaborations — let's build something great!
 
 </div>
 
