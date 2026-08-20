@@ -1,7 +1,12 @@
 <div align="center">
 
-## Neelamohan R
-### Full-Stack Developer · Developer & Data Enthusiast
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3fb950,100:0A66C2&height=220&section=header&text=Neelamohan%20R&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Developer%20%26%20Data%20Enthusiast&descAlignY=58&descSize=18" width="100%"/>
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=3FB950&center=true&vCenter=true&width=600&lines=Building+clean%2C+scalable+web+apps;React+%7C+Node.js+%7C+Python+%7C+SQL;Open+to+freelance+%26+collaboration!" alt="Typing SVG" />
+</a>
+
+<br/>
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-neelamohan.vercel.app-3fb950?style=for-the-badge&logo=vercel&logoColor=white)](https://neelamohan.vercel.app)
 [![GitHub](https://img.shields.io/badge/GitHub-Neelamohan6cs-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Neelamohan6cs)
@@ -9,53 +14,82 @@
 [![Gmail](https://img.shields.io/badge/Gmail-neelamohan6cs-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:neelamohan6cs@gmail.com)
 [![LeetCode](https://img.shields.io/badge/LeetCode-Neelamohan6cs-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/Neelamohan6cs)
 
+<img src="https://komarev.com/ghpvc/?username=Neelamohan6cs&style=for-the-badge&color=3fb950&label=PROFILE+VIEWS" alt="profile views"/>
+
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%" height="4px">
 
-## About Me
+## 🧑‍💻 About Me
 
 - 💡 Passionate about clean code, great UX, and real-world impact
+- 🚀 Currently building projects that blend **web development** and **data**
 - 🤝 Open to **freelance projects** and **collaboration**
-- 🌐 Portfolio: [neelamohan.vercel.app](https://neelamohan.vercel.app)
-- 📫 **neelamohan6cs@gmail.com**
+- 🌱 Always learning — currently leveling up problem-solving on LeetCode
+- 📫 Reach me at **neelamohan6cs@gmail.com**
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%" height="4px">
 
-## Tech Stack
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-009688?style=flat-square&logo=fastapi&logoColor=white)
-
----
-
-## GitHub Stats
+## 🛠️ Tech Stack
 
 <div align="center">
 
-![Neelamohan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Neelamohan6cs&show_icons=true&theme=github_dark&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Neelamohan6cs&layout=compact&theme=github_dark&hide_border=true)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%" height="4px">
 
-## Projects
-
-📌 *Check out my **pinned repositories** below for featured projects, including Smart HealthCare Dairy Products and more!*
-
----
+## 📊 GitHub Stats
 
 <div align="center">
 
-⚡ Open to freelance projects and exciting collaborations — let's build something great!
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=Neelamohan6cs&show_icons=true&count_private=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=3fb950&icon_color=3fb950"/>
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Neelamohan6cs&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=3fb950"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Neelamohan6cs&theme=github-dark-blue&hide_border=true&background=0D1117&ring=3FB950&fire=3FB950&currStreakLabel=3FB950" alt="streak stats"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Neelamohan6cs&theme=github-compact&hide_border=true&bg_color=0D1117&color=3FB950&line=3FB950&point=FFFFFF" width="100%"/>
 
 </div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%" height="4px">
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+[![Smart HealthCare](https://github-readme-stats.vercel.app/api/pin/?username=Neelamohan6cs&repo=Smart-HealthCare&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=3fb950)](https://github.com/Neelamohan6cs)
+[![Dairy Products](https://github-readme-stats.vercel.app/api/pin/?username=Neelamohan6cs&repo=Dairy-Products&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=3fb950)](https://github.com/Neelamohan6cs)
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%" height="4px">
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Neelamohan6cs/Neelamohan6cs/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%" height="4px">
+
+<div align="center">
+
+### ⚡ Let's build something great together!
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="150">
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:3fb950&height=100&section=footer" width="100%"/>
